@@ -1,4 +1,8 @@
 theme: jekyll-theme-minimal
 
-title: Alexander's Blog
+title: Alexander's Personal Blog
+
 description: 
+  Documenting or sharing my views and interpretation of topics related to tech, video games, and more.
+
+show_downloads: false
